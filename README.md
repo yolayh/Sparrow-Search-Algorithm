@@ -1,6 +1,6 @@
 # Sparrow Search Algorithm
 
-The project for the class `Swarm Intellgence.`
+The project is for the class `Swarm Intelligence.`
 
 ## Reference
 
